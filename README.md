@@ -1,4 +1,7 @@
 # GIFTool
+
+windows only
+
 ffmpeg must be in system path
 
 https://github.com/BtbN/FFmpeg-Builds/releases
